@@ -1,1 +1,1 @@
-# BracU-CSE220-Lab-Assignment
+# Brac University CSE220 [Data Structures] Assignments
